@@ -1,2 +1,7 @@
-# demo-marcela-montegrande-propiedades
-Demo web para Marcela Montegrande Propiedades — diseñada por eterlab.
+# Marcela Montegrande Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
